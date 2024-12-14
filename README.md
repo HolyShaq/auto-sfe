@@ -1,3 +1,9 @@
+# Prerequisites
+- Python
+  
+# IMPORTANT
+Tapusin niyo muna ung sinasagutan niyong evaluation currently (if meron man) before running the script. Dapat walang nakalagay na (INCOMPLETE) dun sa list ng professors to evaluate.
+
 # Setup
 1. Clone this repo with
    ```
